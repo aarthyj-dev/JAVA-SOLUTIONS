@@ -5,7 +5,7 @@ The focus here is on mastering the four pillars of OOP: Inheritance, Polymorphis
 
 ## 📌 Featured Concept: 
 
-# Inheritance
+### Inheritance
 * **The `extends` Keyword:** Used to create an "IS-A" relationship
 
 ## 📂 Solutions Included
