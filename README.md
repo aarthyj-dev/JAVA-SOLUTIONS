@@ -11,6 +11,6 @@ The focus here is on mastering the four pillars of OOP: Inheritance, Polymorphis
 ## 📂 Solutions Included
 | Challenge Name | Problem Link | Solution Link |
 | :--- | :--- | :--- |
-| [Inheritance I] | [View Problem Statement](./https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [View Code](./JavaInheritance1.java) |
+| [Inheritance I] | [View Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [View Code](./JavaInheritance1.java) |
 
 
