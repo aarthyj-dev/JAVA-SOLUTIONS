@@ -9,8 +9,8 @@ The focus here is on mastering the four pillars of OOP: Inheritance, Polymorphis
 * **The `extends` Keyword:** Used to create an "IS-A" relationship
 
 ## 📂 Solutions Included
-| Challenge Name | Concept | Solution Link |
+| Challenge Name | Problem Link | Solution Link |
 | :--- | :--- | :--- |
-| [Inheritance I] | Basic Inheritance | [View Code](./JavaInheritance1.java) |
+| [Inheritance I] | [View Problem Statement](./https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [View Code](./JavaInheritance1.java) |
 
 
